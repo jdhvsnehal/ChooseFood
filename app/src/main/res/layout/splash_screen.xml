@@ -1,0 +1,113 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		choosefood
+	 *	@date 		1623935336887
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/splash_screen" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_splash_screen_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View android:id="@+id/_bg__splash_screen_ek2"
+					android:background="@drawable/_bg__splash_screen_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="360dp"
+					android:layout_height="640dp" />
+
+				<TextView android:id="@+id/choose_food"
+					android:fontFamily="Arial"
+					android:textStyle="bold"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="47sp"
+					android:textColor="@color/enjoy_your_berry_mounts_color"
+					android:layout_marginLeft="3dp"
+					android:layout_marginTop="15dp"
+					android:layout_width="361dp"
+					android:layout_height="182.5dp"
+					android:text="@string/choose_food_string"
+					 />
+
+				<TextView
+					android:id="@+id/food_recomendation_application"
+					android:layout_width="263dp"
+					android:layout_height="113dp"
+					android:layout_marginLeft="26dp"
+					android:layout_marginTop="119dp"
+					android:fontFamily="Arial"
+					android:text="@string/food_recomendation_application_string"
+					android:textColor="@color/enjoy_your_berry_mounts_color"
+					android:textSize="28sp"
+					android:textStyle="bold" />
+
+				<ImageView
+					android:id="@+id/eeqbbemh9_c"
+					android:layout_width="360dp"
+					android:layout_height="428dp"
+					android:layout_marginStart="0dp"
+					android:layout_marginTop="212dp"
+					android:contentDescription="eeqbbemh9_c"
+					android:src="@drawable/eeqbbemh9_c" />
+
+				<View
+					android:id="@+id/rectangle_49"
+					android:layout_width="160dp"
+					android:layout_height="65dp"
+					android:layout_marginStart="105dp"
+					android:layout_marginTop="436dp"
+					android:background="@drawable/rectangle_49_shape" />
+
+				<TextView
+					android:id="@+id/_get_started"
+					android:layout_width="150dp"
+					android:layout_height="45dp"
+					android:layout_marginLeft="115dp"
+					android:layout_marginTop="453dp"
+					android:fontFamily="Arial"
+					android:text="@string/_get_started_string"
+					android:textColor="@color/rectangle_54_color"
+					android:textSize="20sp"
+					android:textStyle="bold" />
+
+			</RelativeLayout>
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

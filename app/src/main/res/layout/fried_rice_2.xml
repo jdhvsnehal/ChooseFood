@@ -1,0 +1,110 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		choosefood
+	 *	@date 		1623935336887
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/fried_rice_2" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_fried_rice_2_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View android:id="@+id/_bg__fried_rice_2_ek2"
+					android:background="@drawable/_bg__fried_rice_2_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="360dp"
+					android:layout_height="640dp" />
+
+				<View android:id="@+id/rectangle_1_ek10"
+					android:background="@drawable/rectangle_1_ek10_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="96dp"
+					android:layout_height="531dp" />
+
+				<View android:id="@+id/rectangle_2_ek10"
+					android:background="@drawable/rectangle_2_ek10_shape"
+					 android:layout_marginStart="96dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="96dp"
+					android:layout_height="531dp" />
+
+				<View android:id="@+id/rectangle_57_ek10"
+					android:background="@drawable/rectangle_57_ek10_shape"
+					 android:layout_marginStart="227dp"
+					android:layout_marginTop="157dp"
+					android:layout_width="126dp"
+					android:layout_height="50dp" />
+
+				<TextView android:id="@+id/_back_to_home_ek10"
+					android:fontFamily="Arial"
+					android:textSize="15sp"
+					android:textColor="@color/_back_to_home_color"
+					android:layout_marginLeft="244dp"
+					android:layout_marginTop="157dp"
+					android:layout_width="100dp"
+					android:layout_height="60.5dp"
+					android:text="@string/_back_to_home_ek10_string"
+					 />
+
+				<TextView android:id="@+id/enjoy_your_shrimp_fried_rice"
+					android:fontFamily="Arial"
+					android:textStyle="bold"
+					android:textSize="38sp"
+					android:textColor="@color/enjoy_your_berry_mounts_color"
+					android:layout_marginLeft="16dp"
+					android:layout_marginTop="32dp"
+					android:layout_width="356dp"
+					android:layout_height="177dp"
+					android:text="@string/enjoy_your_shrimp_fried_rice_string"
+					 />
+
+				<ImageView android:id="@+id/_rh0yhbinkf4"
+					android:src="@drawable/_rh0yhbinkf4"
+					android:contentDescription="_rh0yhbinkf4"
+					 android:layout_marginStart="-30dp"
+					android:layout_marginTop="240dp"
+					android:layout_width="421dp"
+					android:layout_height="400dp" />
+
+			</RelativeLayout>
+
+
+
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

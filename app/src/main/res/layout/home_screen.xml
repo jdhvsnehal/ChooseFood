@@ -1,0 +1,118 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		choosefood
+	 *	@date 		1623935336887
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/home_screen" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_home_screen_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View android:id="@+id/_bg__home_screen_ek2"
+					android:background="@drawable/_bg__home_screen_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="360dp"
+					android:layout_height="640dp" />
+
+				<View android:id="@+id/rectangle_1_ek17"
+					android:background="@drawable/rectangle_1_ek17_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="96dp"
+					android:layout_height="640dp" />
+
+
+				<RelativeLayout android:id="@+id/menu_icon"
+					android:layout_marginTop="46dp"
+					android:layout_marginStart="26dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<View android:id="@+id/rectangle_13"
+						android:background="@drawable/rectangle_13_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="31.11dp"
+						android:layout_height="6dp" />
+
+					<View android:id="@+id/rectangle_14"
+						android:background="@drawable/rectangle_14_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="12dp"
+						android:layout_width="40dp"
+						android:layout_height="6dp" />
+
+					<View android:id="@+id/rectangle_15"
+						android:background="@drawable/rectangle_15_shape"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="24dp"
+						android:layout_width="17.78dp"
+						android:layout_height="6dp" />
+
+				</RelativeLayout>
+
+				<TextView android:id="@+id/select_from_variety_to_satisify_those_taste_buds_of_yours___"
+					android:fontFamily="Arial"
+					android:textStyle="bold"
+					android:layout_gravity="center_vertical|end"
+					android:gravity="end"
+					android:textSize="23sp"
+					android:textColor="@color/enjoy_your_berry_mounts_color"
+					android:layout_marginLeft="7dp"
+					android:layout_marginTop="11.5dp"
+					android:layout_width="349dp"
+					android:layout_height="229.5dp"
+					android:text="@string/select_from_variety_to_satisify_those_taste_buds_of_yours____string"
+					 />
+
+				<ImageView android:id="@+id/yn0l7uwbrpw"
+					android:src="@drawable/yn0l7uwbrpw"
+					android:contentDescription="yn0l7uwbrpw"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="200dp"
+					android:layout_width="360dp"
+					android:layout_height="440dp" />
+
+			</RelativeLayout>
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

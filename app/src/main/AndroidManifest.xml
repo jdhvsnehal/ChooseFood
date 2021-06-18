@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+	package="exportkit.xd" >
+
+	
+
+	<application
+		android:allowBackup="true"
+		android:theme="@style/AppTheme"
+		android:label="@string/app_name" >
+		<activity
+		android:name=".choosefood_activity"
+		android:configChanges="orientation|keyboardHidden|screenSize"
+		android:label="@string/app_name"  >
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+
+			<activity android:name="exportkit.xd.pancake_3_activity"></activity>
+			<activity android:name="exportkit.xd.pancake_2_activity"></activity>
+			<activity android:name="exportkit.xd.pancake_1_activity"></activity>
+			<activity android:name="exportkit.xd.icecream_3_activity"></activity>
+			<activity android:name="exportkit.xd.icecream_2_activity"></activity>
+			<activity android:name="exportkit.xd.icecream_1_activity"></activity>
+			<activity android:name="exportkit.xd.pizza_3_activity"></activity>
+			<activity android:name="exportkit.xd.pizza_2_activity"></activity>
+			<activity android:name="exportkit.xd.pizza_1_activity"></activity>
+			<activity android:name="exportkit.xd.fried_rice_3_activity"></activity>
+			<activity android:name="exportkit.xd.fried_rice_2_activity"></activity>
+			<activity android:name="exportkit.xd.fried_rice_1_activity"></activity>
+			<activity android:name="exportkit.xd.pancake_screen_activity"></activity>
+			<activity android:name="exportkit.xd.icecream_screen_activity"></activity>
+			<activity android:name="exportkit.xd.pizza_screen_activity"></activity>
+			<activity android:name="exportkit.xd.fried_rice_screen_activity"></activity>
+			<activity android:name="exportkit.xd.menu_screen_activity"></activity>
+			<activity android:name="exportkit.xd.home_screen_activity"></activity>
+			<activity android:name="exportkit.xd.splash_screen_activity"></activity>
+	</application>
+
+</manifest>
+	
+	

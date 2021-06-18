@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- choosefood colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg__pancake_3_ek2_color">#F2F3F8</color>
+	<color name="rectangle_1_color">#ffffff</color>
+	<color name="rectangle_57_color">#000000</color>
+	<color name="_back_to_home_color">#ABABAB</color>
+	<color name="enjoy_your_berry_mounts_color">#333333</color>
+	<color name="rectangle_54_color">#FFFFFF</color>
+	<color name="rectangle_13_color">#4E5156</color>
+	<color name="rectangle_49_color">#0CCD59</color>
+</resources>

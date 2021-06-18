@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- choosefood strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="_back_to_home_string">Back to home</string>
+	<string name="enjoy_your_berry_mounts_string">ENJOY YOURBERRY MOUNTS</string>
+	<string name="_back_to_home_ek1_string">Back to home</string>
+	<string name="enjoy_your_sweet_nicities_string">ENJOY YOURSWEET NICITIES</string>
+	<string name="_back_to_home_ek2_string">Back to home</string>
+	<string name="enjoy_your_blueberry_love_string">ENJOY YOURBLUEBERRY LOVE</string>
+	<string name="_back_to_home_ek3_string">Back to home</string>
+	<string name="enjoy_your_mango_monday_string">ENJOY YOURMANGO MONDAY</string>
+	<string name="_back_to_home_ek4_string">Back to home</string>
+	<string name="enjoy_your_strawberry_delights_string">ENJOY YOURSTRAWBERRY DELIGHTS</string>
+	<string name="_back_to_home_ek5_string">Back to home</string>
+	<string name="enjoy_your_sweet_special_string">ENJOY YOURSWEET SPECIAL</string>
+	<string name="_back_to_home_ek6_string">Back to home</string>
+	<string name="enjoy_your_st__louis_pizza_string">ENJOY YOURST. LOUIS PIZZA</string>
+	<string name="_back_to_home_ek7_string">Back to home</string>
+	<string name="enjoy_your_detroit_pizza_string">ENJOY YOURDETROIT PIZZA</string>
+	<string name="_back_to_home_ek8_string">Back to home</string>
+	<string name="enjoy_your_neapolitian_pizza_string">ENJOY YOURNEAPOLITIAN PIZZA</string>
+	<string name="_back_to_home_ek9_string">Back to home</string>
+	<string name="enjoy_your_special_fried_rice_string">ENJOY YOURSPECIAL FRIED RICE</string>
+	<string name="_back_to_home_ek10_string">Back to home</string>
+	<string name="enjoy_your_shrimp_fried_rice_string">ENJOY YOURSHRIMP FRIED RICE</string>
+	<string name="_back_to_home_ek11_string">Back to home</string>
+	<string name="enjoy_your_veg__fried_rice_string">ENJOY YOUR VEG. FRIED RICE</string>
+	<string name="our_variants__pancake_string">OUR VARIANTS:PANCAKE</string>
+	<string name="popular_now_string">Popular Now</string>
+	<string name="blueberry_love__125_00_string">Blueberry Love     125.00</string>
+	<string name="sweet_nicities__150_00_string">Sweet Nicities      150.00</string>
+	<string name="berry_mounts__200_00_string">Berry Mounts      200.00</string>
+	<string name="our_variants__ice_cream_string">OUR VARIANTS:ICE-CREAM</string>
+	<string name="popular_now_ek1_string">Popular Now</string>
+	<string name="sweet_special__100_00_string">Sweet Special     100.00</string>
+	<string name="strawberry_delights__150_00_string">Strawberry Delights  150.00</string>
+	<string name="mango_monday__125_00_string">Mango Monday    125.00</string>
+	<string name="our_variants__pizza_string">OUR VARIANTS:PIZZA</string>
+	<string name="popular_now_ek2_string">Popular Now</string>
+	<string name="neapolitan_pizza__250_00_string">Neapolitan Pizza     250.00</string>
+	<string name="detroit_pizza__200_00_string">Detroit Pizza        200.00</string>
+	<string name="st__louis_pizza__300_00_string">St. Louis Pizza      300.00</string>
+	<string name="our_variants__fried_rice_string">OUR VARIANTS:FRIED RICE</string>
+	<string name="popular_now_ek3_string">Popular Now</string>
+	<string name="veg__fried_rice__150_00_string">Veg. Fried Rice      150.00</string>
+	<string name="shrimp_fried_rice__250_00_string">Shrimp Fried Rice    250.00</string>
+	<string name="special_fried_rice__200_00_string">Special Fried Rice    200.00</string>
+	<string name="menu_string">MENU</string>
+	<string name="fried_rice_string">FRIED RICE</string>
+	<string name="pizza_string">PIZZA</string>
+	<string name="ice_cream_string">ICE-CREAM</string>
+	<string name="pancakes_string">PANCAKES</string>
+	<string name="select_from_variety_to_satisify_those_taste_buds_of_yours____string">SELECT FROM VARIETY TO SATISIFYTHOSE TASTE-BUDSOF YOURS ;)</string>
+	<string name="choose_food_string">CHOOSEFOOD</string>
+	<string name="food_recomendation_application_string">FOOD RECOMENDATIONAPPLICATION</string>
+	<string name="_get_started_string">GET STARTED</string>
+</resources>

@@ -1,0 +1,175 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		choosefood
+	 *	@date 		1623935336887
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/pizza_screen" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+
+
+
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_pizza_screen_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View android:id="@+id/_bg__pizza_screen_ek2"
+					android:background="@drawable/_bg__pizza_screen_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="360dp"
+					android:layout_height="1287dp" />
+
+				<View android:id="@+id/rectangle_1_ek14"
+					android:background="@drawable/rectangle_1_ek14_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="96dp"
+					android:layout_height="232dp" />
+
+				<View android:id="@+id/rectangle_2_ek14"
+					android:background="@drawable/rectangle_2_ek14_shape"
+					 android:layout_marginStart="72dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="96dp"
+					android:layout_height="232dp" />
+
+				<TextView android:id="@+id/our_variants__pizza"
+					android:fontFamily="Arial"
+					android:textStyle="bold"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="35sp"
+					android:textColor="@color/enjoy_your_berry_mounts_color"
+					android:layout_marginLeft="6dp"
+					android:layout_marginTop="20dp"
+					android:layout_width="355dp"
+					android:layout_height="121.5dp"
+					android:text="@string/our_variants__pizza_string"
+					 />
+
+				<TextView android:id="@+id/popular_now_ek2"
+					android:fontFamily="Arial"
+					android:textSize="35sp"
+					android:textColor="@color/enjoy_your_berry_mounts_color"
+					android:layout_marginLeft="19dp"
+					android:layout_marginTop="148dp"
+					android:layout_width="229dp"
+					android:layout_height="55.5dp"
+					android:text="@string/popular_now_ek2_string"
+					 />
+
+				<View android:id="@+id/rectangle_54_ek2"
+					android:background="@drawable/rectangle_54_ek2_shape"
+					 android:layout_marginStart="12dp"
+					android:layout_marginTop="211dp"
+					android:layout_width="330dp"
+					android:layout_height="300dp" />
+
+				<View android:id="@+id/rectangle_55_ek2"
+					android:background="@drawable/rectangle_55_ek2_shape"
+					 android:layout_marginStart="19dp"
+					android:layout_marginTop="892dp"
+					android:layout_width="330dp"
+					android:layout_height="300dp" />
+
+				<View android:id="@+id/rectangle_56_ek2"
+					android:background="@drawable/rectangle_56_ek2_shape"
+					 android:layout_marginStart="19dp"
+					android:layout_marginTop="543dp"
+					android:layout_width="330dp"
+					android:layout_height="300dp" />
+
+				<TextView android:id="@+id/neapolitan_pizza__250_00"
+					android:fontFamily="Arial"
+					android:textSize="25sp"
+					android:textColor="@color/rectangle_57_color"
+					android:layout_marginLeft="21dp"
+					android:layout_marginTop="459dp"
+					android:layout_width="357dp"
+					android:layout_height="57.5dp"
+					android:text="@string/neapolitan_pizza__250_00_string"
+					 />
+
+				<TextView android:id="@+id/detroit_pizza__200_00"
+					android:fontFamily="Arial"
+					android:textSize="25sp"
+					android:textColor="@color/rectangle_57_color"
+					android:layout_marginLeft="33dp"
+					android:layout_marginTop="785dp"
+					android:layout_width="357dp"
+					android:layout_height="57.5dp"
+					android:text="@string/detroit_pizza__200_00_string"
+					 />
+
+				<TextView android:id="@+id/st__louis_pizza__300_00"
+					android:fontFamily="Arial"
+					android:textSize="25sp"
+					android:textColor="@color/rectangle_57_color"
+					android:layout_marginLeft="36dp"
+					android:layout_marginTop="1137dp"
+					android:layout_width="357dp"
+					android:layout_height="57.5dp"
+					android:text="@string/st__louis_pizza__300_00_string"
+					 />
+
+				<ImageView android:id="@+id/__1hl_cllrspw_ek2"
+					android:src="@drawable/__1hl_cllrspw_ek2"
+					android:contentDescription="__1hl_cllrspw_ek2"
+					 android:layout_marginStart="25dp"
+					android:layout_marginTop="234dp"
+					android:layout_width="309dp"
+					android:layout_height="210dp" />
+
+				<ImageView android:id="@+id/_bmvayjpf6mu_ek1"
+					android:src="@drawable/_bmvayjpf6mu_ek1"
+					android:contentDescription="_bmvayjpf6mu_ek1"
+					 android:layout_marginStart="33dp"
+					android:layout_marginTop="560dp"
+					android:layout_width="309dp"
+					android:layout_height="210dp" />
+
+				<ImageView android:id="@+id/_y6ogisigbjm_ek1"
+					android:src="@drawable/_y6ogisigbjm_ek1"
+					android:contentDescription="_y6ogisigbjm_ek1"
+					 android:layout_marginStart="33dp"
+					android:layout_marginTop="912dp"
+					android:layout_width="309dp"
+					android:layout_height="210dp" />
+
+			</RelativeLayout>
+
+
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>
